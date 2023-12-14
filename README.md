@@ -1,8 +1,8 @@
-karan- 👋 Hi, I’m @6359015644
-Data & ML- 👀 I’m interested in ...
-python & Database- 🌱 I’m currently learning ...
-Data Analytics- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+karan- 👋 Hi, I’m karan
+ 👀 I’m interested in ...Data & ML-
+ 🌱 I’m currently learning ...python & Database-
+💞️ I’m looking to collaborate on ...Data Analytics- 
+- 📫 How to reach me ...E-mail: chavda261karan@gmail.com
 
 <!---
 6359015644/6359015644 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
